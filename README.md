@@ -1,8 +1,8 @@
 # Next.js Financial Dashboard
 
 [![License](https://img.shields.io/github/license/rahulkumar-fullstack/nextjs-financial-dashboard)](https://github.com/your-username/nextjs-financial-dashboard)
-[![Next.js](https://img.shields.io/badge/Next.js-12.x-%23000000)](https://nextjs.org)
-[![Node.js](https://img.shields.io/badge/Node.js-16.x-%23339933)](https://nodejs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-15.x-%23000000)](https://nextjs.org)
+[![Node.js](https://img.shields.io/badge/Node.js-18.18.0-%23339933)](https://nodejs.org/)
 
 A **Next.js** financial dashboard with **user authentication** and **invoice management**.
 
